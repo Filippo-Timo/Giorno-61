@@ -1,8 +1,8 @@
 package Esercizio1;
 
-import Exceptions.NumeroDaInsSbagliato;
-import Exceptions.PosizioneSbagliata;
-import Exceptions.PosizioneZero;
+import ExceptionsEsercizio1.NumeroDaInsSbagliato;
+import ExceptionsEsercizio1.PosizioneSbagliata;
+import ExceptionsEsercizio1.PosizioneZero;
 
 import java.util.Arrays;
 import java.util.Random;

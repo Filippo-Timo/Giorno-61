@@ -1,4 +1,4 @@
-package Exceptions;
+package ExceptionsEsercizio1;
 
 public class PosizioneZero extends Exception {
     public PosizioneZero() {
